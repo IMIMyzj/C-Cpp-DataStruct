@@ -1,0 +1,2 @@
+# learningCpp
+some C++ function
